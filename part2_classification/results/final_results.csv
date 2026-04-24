@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,Train_Time_sec
+Logistic Regression,0.92,0.9495,0.92,0.9271,0.0611
+SVC,0.925,0.9429,0.925,0.9298,0.0208
+Decision Tree,0.88,0.8669,0.88,0.8691,0.0091
+Random Forest,0.885,0.8986,0.885,0.8484,0.24
+Neural Network,0.86,0.7396,0.86,0.7953,0.0597
+SVC (Tuned),0.98,0.9809,0.98,0.9803,
